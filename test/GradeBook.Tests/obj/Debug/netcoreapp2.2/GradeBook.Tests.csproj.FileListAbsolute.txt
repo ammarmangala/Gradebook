@@ -12,3 +12,6 @@ C:\Users\TRACER\Documents\GitHub\Gradebook\test\GradeBook.Tests\obj\Debug\netcor
 C:\Users\TRACER\Documents\GitHub\Gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2.2\GradeBook.Tests.AssemblyInfo.cs
 C:\Users\TRACER\Documents\GitHub\Gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2.2\GradeBook.Tests.dll
 C:\Users\TRACER\Documents\GitHub\Gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2.2\GradeBook.Tests.pdb
+C:\Users\TRACER\Documents\GitHub\Gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.2\GradeBook.dll
+C:\Users\TRACER\Documents\GitHub\Gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.2\GradeBook.pdb
+C:\Users\TRACER\Documents\GitHub\Gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2.2\GradeBook.Tests.csproj.CopyComplete
