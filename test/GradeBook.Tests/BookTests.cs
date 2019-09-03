@@ -9,13 +9,13 @@ namespace GradeBook.Tests
         public void Test1()
         {
             //  arange
-           
+            var book = new Book("");
 
             // act
-            var actual = x + y;
+            
 
             // assert
-            Assert.Equal(expected, actual);
+            
         }
     }
 }
