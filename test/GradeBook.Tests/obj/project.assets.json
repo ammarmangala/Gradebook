@@ -5880,11 +5880,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TRACER\\Documents\\GitHub\\Gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
+      "projectUniqueName": "c:\\Users\\TRACER\\Documents\\GitHub\\Gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
       "projectName": "GradeBook.Tests",
-      "projectPath": "C:\\Users\\TRACER\\Documents\\GitHub\\Gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
+      "projectPath": "c:\\Users\\TRACER\\Documents\\GitHub\\Gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
       "packagesPath": "C:\\Users\\TRACER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TRACER\\Documents\\GitHub\\Gradebook\\test\\GradeBook.Tests\\obj\\",
+      "outputPath": "c:\\Users\\TRACER\\Documents\\GitHub\\Gradebook\\test\\GradeBook.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5903,8 +5903,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\TRACER\\Documents\\GitHub\\Gradebook\\src\\GradeBook\\GradeBook.csproj": {
-              "projectPath": "C:\\Users\\TRACER\\Documents\\GitHub\\Gradebook\\src\\GradeBook\\GradeBook.csproj"
+            "c:\\Users\\TRACER\\Documents\\GitHub\\Gradebook\\src\\GradeBook\\GradeBook.csproj": {
+              "projectPath": "c:\\Users\\TRACER\\Documents\\GitHub\\Gradebook\\src\\GradeBook\\GradeBook.csproj"
             }
           }
         }
