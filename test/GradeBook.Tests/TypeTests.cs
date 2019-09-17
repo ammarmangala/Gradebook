@@ -102,7 +102,6 @@ namespace GradeBook.Tests
             Assert.Same(book1, book2);
             Assert.True(Object.ReferenceEquals(book1, book2));
         }
-
         Book GetBook(string name)
         {
             return new Book(name);
