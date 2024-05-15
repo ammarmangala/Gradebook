@@ -27,6 +27,7 @@ namespace GradeBook
         string Name { get; }
         event GradeAddedDelegate GradeAdded;
     }
+    
     public abstract class Book : NamedObject, IBook
     {
         public Book(string name) : base(name)

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1RyVPXLpu7RW/BFjK1JW4sgHZBdGx4gdVHAJnnav5F0T0y6LwaE3XI6N+BGyt/9xh/5IEqet20oE87n7zyg2zQ==",
+  "dgSpecHash": "cZVvQbINNUAudr6VeRW/YGYtgSe7nZuptMF0L76K0RRuH3KJVjbBDupzo6mD38pltahQKw2N0VePiX7Ljwz+Nw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ammar\\Documents\\Web Development\\Repositories\\C#\\Gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
+  "projectFilePath": "C:\\Users\\ammar\\RiderProjects\\Gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ammar\\.nuget\\packages\\microsoft.codecoverage\\16.0.1\\microsoft.codecoverage.16.0.1.nupkg.sha512",
     "C:\\Users\\ammar\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

@@ -55,7 +55,6 @@ namespace GradeBook
             Sum = 0.0;
             High = double.MinValue;
             Low = double.MaxValue;
-
         }
     }
 }
